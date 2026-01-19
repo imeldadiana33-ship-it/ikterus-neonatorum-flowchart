@@ -25,3 +25,4 @@ flowchart TD
 
     E1 --> G1[Evaluasi & Outcome<br/>Kuning berkurang, bayi aktif, bilirubin <10 mg/dL]
     F1 --> G2[Outcome<br/>Kadar bilirubin menurun, bayi pulih, tanpa komplikasi]
+```mermaid
